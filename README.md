@@ -3,6 +3,12 @@ Using RAG, FAISS, HuggingFace Embeddings & Groq LLM
 
 This project is an AI-powered Document Question Answering System that enables users to upload PDF documents and interact with them through natural language queries. The system is built using the Retrieval-Augmented Generation (RAG) approach to ensure accurate, context-aware answers.
 
+## 🎥 Live Project Demo 
+
+▶️ **Watch the full demo here:**  
+https://drive.google.com/file/d/1MnUGtoLqEXDvWWsLAkzq0sQ7oOKgthgB/view?usp=sharing
+
+
 Users can:
 
 Upload multiple PDFs
