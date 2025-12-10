@@ -1,0 +1,20 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+.git
+.gitignore
+.vscode/
+.idea/
+
+# Don't bake secrets into the image
+.env
+
+# Large or unnecessary local files
+*.pdf
+
+# Vectorstore (we mount it as a volume)
+vectorstore/
